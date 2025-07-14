@@ -13,7 +13,7 @@
 <div align="center">  
   
 ## 💫 About Me:
-🏫 I’m currently studying at Trent University, Canada<br> 🤖 My obsession is AI and Machine Learning<br> 🤝 I’m always looking to Collaborate<br>🌱 I’m currently learning Automation<br>♟️ Always looking for a Chess Battle
+🏫 I’m currently studying at Trent University, Canada<br> 🤖 My obsession is AI and Machine Learning<br> 🤝 I’m always looking to Collaborate<br>🌱 I’m currently learning Automation<br>♟️ Always looking for a Chess Battle<br> 🕳️ My Favorite Movie is Interstellar<br>![Alt Text](https://giffiles.alphacoders.com/130/13054.gif)
 </div>
 
 <div align="center"> 
