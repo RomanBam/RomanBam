@@ -7,7 +7,7 @@
 
 <div align="center">  
   
-  #### Driven by the goal of creating innovative technology that can make a meaningful, positive impact on the real world.
+  #### Driven by the goal of creating innovative technology that can make a meaningful and positive impact on the real world.
 </div>
 
 <div align="center">  
