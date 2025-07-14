@@ -6,7 +6,7 @@
 <div align="center">  
   
 ## 💫 About Me:
-🏫 I’m currently studying at Trent University, Canada<br>🤝 I’m always looking to collaborate<br>🌱 I’m currently learning automation<br>♟️ Always looking for a chess battle
+🏫 I’m currently studying at Trent University, Canada<br> 🤖 My obsession is AI and Machine Learning<br> 🤝 I’m always looking to Collaborate<br>🌱 I’m currently learning Automation<br>♟️ Always looking for a Chess Battle
 </div>
 
 <div align="center"> 
