@@ -4,6 +4,13 @@
 </div>
 
 <div align="center">  
+
+<div align="center">  
+  
+  #### Driven by the goal of creating innovative technology that can make a meaningful, positive impact on the real world.
+</div>
+
+<div align="center">  
   
 ## 💫 About Me:
 🏫 I’m currently studying at Trent University, Canada<br> 🤖 My obsession is AI and Machine Learning<br> 🤝 I’m always looking to Collaborate<br>🌱 I’m currently learning Automation<br>♟️ Always looking for a Chess Battle
