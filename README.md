@@ -4,8 +4,6 @@
 </div>
 
 <div align="center">  
-
-<div align="center">  
   
   #### Driven by the goal of creating innovative technology that can make a meaningful and positive impact on the real world.
 </div>
@@ -13,7 +11,28 @@
 <div align="center">  
   
 ## 💫 About Me:
-🏫 I’m currently studying at Trent University, Canada<br> 🤖 My obsession is AI and Machine Learning<br> 🤝 I’m always looking to Collaborate<br>🌱 I’m currently learning AWS <br> ♟️ Looking for a Chess Battle<br> 🌌 My Favorite Movie is Interstellar<br>![Alt Text](https://giffiles.alphacoders.com/130/13054.gif)
+Software Engineer with a strong foundation in Full-Stack Development, AI/ML, and Data Analytics. Proficient in building scalable applications using Python, Java, React, HTML, CSS, PHP and more with experience in database integration, API development, and model deployment. Proficient with modern development tools and practices, including software security, automated testing, and CI/CD pipelines. Familiar with the Software Development Life Cycle in Agile environments and the Scrum framework. Passionate about designing robust systems, optimizing algorithms, and contributing to innovative, production-ready software projects.
+</div>
+
+<div align="center">  
+
+## 📚 Projects:
+
+[![AI Resume Critiquer](https://img.shields.io/badge/AI_Resume_Critiquer-View_Project-4A90E2?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/RomanBam/AI-Resume-Critiquer)  
+AI-powered resume critique tool providing detailed feedback and tailored suggestions for improvement
+
+[![AI Image Classifier](https://img.shields.io/badge/AI_Image_Classifier-View_Project-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/RomanBam/AI-Image-Classifier)  
+Web-based image classification app using TensorFlow's MobileNetV2 model with real-time predictions
+
+[![AI Assistant](https://img.shields.io/badge/AI_Assistant-View_Project-00D9FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/RomanBam/AI-Assistant)  
+Command-line AI assistant powered by LangChain and OpenAI for chat and custom tools
+
+[![Cheese Fat Prediction](https://img.shields.io/badge/Cheese_Fat_Prediction-View_Project-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RomanBam/CheeseFatPrediction)  
+Machine learning workflow for predicting fat content in cheese samples using scikit-learn
+
+[![Mini Projects Practice](https://img.shields.io/badge/Mini_Projects-View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomanBam/MiniProjects-Practice)  
+Collection of small practice projects to build and showcase programming fundamentals
+
 </div>
 
 <div align="center"> 
@@ -88,4 +107,3 @@
   
   ![snake gif](https://github.com/RomanBam/RomanBam/blob/output/github-snake-dark.svg)
 </div>
-
