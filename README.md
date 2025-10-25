@@ -18,6 +18,9 @@ Software Engineer with a strong foundation in Full-Stack Development, AI/ML, and
 
 ## 📚 Projects:
 
+[![Cheese Fat Prediction](https://img.shields.io/badge/Cheese_Fat_Prediction-View_Project-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RomanBam/CheeseFatPrediction)  
+Machine learning workflow for predicting fat content in cheese samples using scikit-learn
+
 [![AI Resume Critiquer](https://img.shields.io/badge/AI_Resume_Critiquer-View_Project-4A90E2?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/RomanBam/AI-Resume-Critiquer)  
 AI-powered resume critique tool providing detailed feedback and tailored suggestions for improvement
 
@@ -26,9 +29,6 @@ Web-based image classification app using TensorFlow's MobileNetV2 model with rea
 
 [![AI Assistant](https://img.shields.io/badge/AI_Assistant-View_Project-00D9FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/RomanBam/AI-Assistant)  
 Command-line AI assistant powered by LangChain and OpenAI for chat and custom tools
-
-[![Cheese Fat Prediction](https://img.shields.io/badge/Cheese_Fat_Prediction-View_Project-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/RomanBam/CheeseFatPrediction)  
-Machine learning workflow for predicting fat content in cheese samples using scikit-learn
 
 [![Mini Projects Practice](https://img.shields.io/badge/Mini_Projects-View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomanBam/MiniProjects-Practice)  
 Collection of small practice projects to build and showcase programming fundamentals
