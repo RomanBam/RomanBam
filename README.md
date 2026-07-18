@@ -11,7 +11,7 @@
 <div align="center">  
   
 ## 💫 About Me:
-Software Engineer with a strong foundation in Full-Stack Development, AI/ML, and Data Analytics. Proficient in building scalable applications using Python, Java, React, HTML, CSS, PHP and more with experience in database integration, API development, and model deployment. Proficient with modern development tools and practices, including software security, automated testing, and CI/CD pipelines. Familiar with the Software Development Life Cycle in Agile environments and the Scrum framework. Passionate about designing robust systems, optimizing algorithms, and contributing to innovative, production-ready software projects.
+Software Engineer with a foundation in Full-Stack Development, AI/ML, and Data Analytics. Proficient in building scalable applications using Python, Java, React, HTML, CSS, PHP and more with experience in database integration, API development, and model deployment. Proficient with modern development tools and practices, including software security, automated testing, and CI/CD pipelines. Familiar with the Software Development Life Cycle in Agile environments and the Scrum framework. Passionate about designing robust systems, optimizing algorithms, and contributing to innovative, production-ready software projects.
 </div>
 
 <div align="center">  
