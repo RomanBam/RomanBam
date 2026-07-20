@@ -17,29 +17,41 @@ Software Engineer with a foundation in Full-Stack Development, AI/ML, and Data A
 <div align="center">  
 
 ## 📚 Projects:
-<img src="https://img.shields.io/badge/MiniX-View_Project-00D9FF?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="MiniX">
+<a href="https://github.com/RomanBam/MiniX">
+  <img src="https://img.shields.io/badge/MiniX-View_Project-00D9FF?style=for-the-badge&logo=python&logoColor=white" alt="MiniX">
+</a>
 
 MiniX is a social media-style web app built with React, Vite, PHP, and MySQL, featuring user authentication, post creation/likes, user search, and a Weatherstack-powered weather widget.
 
-<img src="https://img.shields.io/badge/Cheese_Fat_Prediction-View_Project-FFA500?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Cheese Fat Prediction">
+<a href="https://github.com/RomanBam/CheeseFatPrediction">
+  <img src="https://img.shields.io/badge/Cheese_Fat_Prediction-View_Project-FFA500?style=for-the-badge&logo=jupyter&logoColor=white" alt="Cheese Fat Prediction">
+</a>
 
-Machine learning workflow for predicting fat content in cheese samples using scikit-learn
+Machine learning workflow for predicting fat content in cheese samples using scikit-learn.
 
-<img src="https://img.shields.io/badge/AI_Resume_Critiquer-View_Project-4A90E2?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI Resume Critiquer">
+<a href="https://github.com/RomanBam/AI-Resume-Critiquer">
+  <img src="https://img.shields.io/badge/AI_Resume_Critiquer-View_Project-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Resume Critiquer">
+</a>
 
-AI-powered resume critique tool providing detailed feedback and tailored suggestions for improvement
+AI-powered resume critique tool providing detailed feedback and tailored suggestions for improvement.
 
-<img src="https://img.shields.io/badge/AI_Image_Classifier-View_Project-FF6B6B?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="AI Image Classifier">
+<a href="https://github.com/RomanBam/AI-Image-Classifier">
+  <img src="https://img.shields.io/badge/AI_Image_Classifier-View_Project-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Image Classifier">
+</a>
 
-Web-based image classification app using TensorFlow's MobileNetV2 model with real-time predictions
+Web-based image classification app using TensorFlow's MobileNetV2 model with real-time predictions.
 
-<img src="https://img.shields.io/badge/AI_Assistant-View_Project-00D9FF?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="AI Assistant">
+<a href="https://github.com/RomanBam/AI-Assistant">
+  <img src="https://img.shields.io/badge/AI_Assistant-View_Project-00D9FF?style=for-the-badge&logo=python&logoColor=white" alt="AI Assistant">
+</a>
 
-Command-line AI assistant powered by LangChain and OpenAI for chat and custom tools
+Command-line AI assistant powered by LangChain and OpenAI for chat and custom tools.
 
-<img src="https://img.shields.io/badge/Mini_Projects-View_Project-9B59B6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Mini Projects Practice">
+<a href="https://github.com/RomanBam/MiniProjects-Practice">
+  <img src="https://img.shields.io/badge/Mini_Projects-View_Project-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="Mini Projects Practice">
+</a>
 
-Collection of small practice projects to build and showcase programming fundamentals
+Collection of small practice projects to build and showcase programming fundamentals.
 
 </div>
 
